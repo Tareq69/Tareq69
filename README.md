@@ -1,7 +1,7 @@
 ## Welcome to my github page!
 
 # I am Tareq Mahmud. I am a full stack software developer. I love building scalable and efficient softwares.
-# Find me on web <a href="https://tareqmahmud.online/" target="_blank">Here</a>
+# Find me on web <a href="https://tareqmahmud-portfolio.netlify.app/" target="_blank">Here</a>
 
 <a href="https://www.facebook.com/martin.luiz.121/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/tareq-mahmud-651894155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
